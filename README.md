@@ -672,4 +672,153 @@ VT = VRT = 3(27.78) = 70.31V
 
 V20Ω = Vab = 70.31*20/62.5 = 22.5V
 
+EJERCICIOS CAPÍTULO X
 
+1. para la Figura 10-31, determine la carga en el capacitor, su capacitancia o el voltaje en él, según se aplique a cada uno de los siguientes incisos:
+
+![image](https://user-images.githubusercontent.com/85209614/126440727-df234b57-d639-41a3-ac06-bd3ae4ecdcc2.png)
+
+Sabemos que Q = CE
+
+a) E = 40V , C = 20uF
+
+Q = CV
+
+Q = (20uF)(40uF)
+
+Q = 800uC
+
+b) V = 500V , C = 1000uC
+
+C = Q / V
+
+C = 1000uC / 500V
+
+C = 2uF
+
+c) V = 200V , C = 500nF
+
+Q = C V
+
+Q = (500nF)(200V)
+
+Q = 100uC
+
+d) Q = 3*10^-4 , C = 40uF
+
+Q = C E
+
+3*10^-4 = (10*10^-6F)E
+
+E = 3*10^-4C / 10*10^-6F
+
+E = 30V
+
+e) Q = 6mC , C = 40uF
+
+V = Q / C
+
+V = 6mC / 40uF
+
+V = 150V
+
+f) V = 1200V , Q = 1.8mC
+
+C = Q / V
+
+C = 1.8 mC / 1200V
+
+C = 1.5uF
+
+3. La carga en un capacitor de 50μF es de 10 × 10^(-3) C. ¿Cuál es la diferencia de potencial entre sus terminales?
+
+E = Q / C
+
+E = 10*10^-3C / 50uF
+
+E = 200V
+
+5. Se carga un capacitor 5μF con 150 V. Su compañero de laboratorio momentáneamente pone un resistor a traves de sus terminales y drena suficiente carga para que el voltaje caiga a 84 V. ¿Cuál es la carga final del capacitor?
+
+Q = C V
+
+Q = (5uF)(84V)
+
+Q = 420uC
+
+7. Un capacitor de placas paralelas con un dieléctrico de mica tiene las siguientes dimensiones 1 cm x 1.5 cm con una separación de 0.1 mm. ¿Cuál es su capacitancia?
+
+C = E0 * A / d
+
+C = 8.854*10^-12 * (0.00785m^2) / (0.1mm)
+
+C = 0.69*10^-9F
+
+C = 0.69nF
+
+9. La capacitancia de un capacitor lleno de aceite es de 200 pF. Si la separación entre las placas es de 0.1 mm. ¿cuál es el área de las placas?
+
+C = E0 * A / d
+
+C = 8.854*10^-12 * (0.00785m^2) / (0.1mm)
+
+C = 0.69*10^-9F
+
+C = 0.69nF
+
+11. Un capacitor con un dieléctrico de Teflón tiene una capacitancia de 33 _F. Un segundo capacitor con dimensiones físicas idénticas, pero con un dieléctrico de mylar lleva una carga de  55×10^(-4)C. ¿Cuál es su voltaje?
+
+![image](https://user-images.githubusercontent.com/85209614/126443639-422d87dc-e278-4b17-82f0-0ec3b06d33a6.png)
+
+![image](https://user-images.githubusercontent.com/85209614/126443651-2c387401-079a-4437-9bad-6e2192716c35.png)
+
+13. 	a. ¿Cuál es la intensidad del campo eléctrico E a una distancia de 1 cm de una carga de 100 mC en aceite? 
+b. ¿Cuál es E al doble de la distancia?
+
+Q=100 mC≈100*10^-3C
+
+a.  E=〖9*10〗^9 ((100*10^(-3))/(1*10^(-2) )^2 )
+
+E=3.214*〖10〗^12  (N/C)
+
+b.  d=1cm*2=2cm≈2*10^(-2)
+
+E=〖9*10〗^9 ((100*10^(-3))/(2*10^(-2) )^2 )
+
+E=2.25*〖10〗^12  (N/C)
+
+15. Un capacitor con aire como dieléctrico tiene un espaciamiento de placas de 1.5 mm. ¿Cuánto voltaje se le puede aplicar antes de que ocurra una ruptura?
+
+V=3 kV/mm (1,5 mm)=4,5 kV
+
+17. Un capacitor con un dieléctrico de mica sufre una ruptura cuando se le aplican E volts. La mica se remueve y el espacio entre las placas se duplica. Si la ruptura ahora ocurre a 500 V, ¿cuál es el valor de E?
+
+d=V/∈
+
+d=(500 V)/(40*10^6  V/m)
+
+d=12.5*10^(-6)  m
+
+E=V/d
+
+E=(500 V)/(12.5*10^(-6)  m)
+
+E=4*10^5  V/m
+
+19. La figura 10-32 muestra varios espaciamientos, entre ellos se incluye un capacitor de placas paralelas, un conjunto de pequeños puntos esféricos y un par de puntos afilados. Todos los espaciamientos miden lo mismo. Conforme el voltaje se incremente, ¿qué espaciamiento sufre ruptura en cada caso?
+
+![image](https://user-images.githubusercontent.com/85209614/126444792-93b1074c-e775-45e3-b075-34eedf2491d8.png)
+
+a) Puntos
+
+b) Esferas
+
+c) Puntos
+
+23. ¿Cuál es la capacitancia equivalente de 10, 12, 22, 33 µF conectados en paralelo? 
+
+CT=10+12+22+33=77 µF
+
+25. Repita el problema 23 si los capacitores están conectados en serie. 
+
+CT=1/(1/10+1/12+1/22+1/33)=3,86 µF
