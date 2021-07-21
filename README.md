@@ -918,7 +918,7 @@ V1=(3.6/6)*100 = 60V
 
 V2=V3=(3.6/9)*100=40V
 
-38. Repita el problema 38 para el circuito de la figura 10-39
+39. Repita el problema 38 para el circuito de la figura 10-39
 
 ![image](https://user-images.githubusercontent.com/84390686/126446708-50a6973f-dd79-4dcc-bf65-593e94a02a26.png)
 
