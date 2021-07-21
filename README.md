@@ -18,11 +18,233 @@ Específicos
 
 CAPÍTULO IX
 
+![image](https://user-images.githubusercontent.com/85137398/126437428-726e9345-274b-42ec-add0-6e297677a101.png)
+
 ![image](https://user-images.githubusercontent.com/84390820/126432878-aaa82e88-883d-4484-b3fd-62d912a6be41.png)
 
 3. EXPLICACIÓN Y RESOLCIÓN DE EJERCICIOS O PROBLEMAS
 
 EJERCICIOS CAPÍTULO IX
+
+1.	Dado el circuito de la figura 9-75, use la superposicion para calcular la corriente a traves de cada uno de los resistores.
+
+![image](https://user-images.githubusercontent.com/85137398/126437469-bf784a5e-5d95-4250-94e0-b0ff1fed586f.png)
+
+Hacemos cortocircuito la funete  E2
+
+RT= 200 OHM
+
+E1= 20 V
+
+IT = 20 / 200
+
+IT = 100 mA  -> IT = I1 
+
+Hacemos cortocircuito la funete E1
+
+RT = 160 ohm 
+
+E2 = 10 V
+
+IT = 10/160
+
+IT = 62.5 mA
+
+I1 = 25 mA  I1 = - IR1
+
+IR1 = - 25 mA
+
+IR1 = IR1(1)+IR1(2)
+
+IR1 = 100 + (-25) = 75 mA
+
+IR2 = IR1
+
+IR2 = 75 mA
+
+IR3 = 87.5 mA
+
+IR4 = 12.5 mA
+
+3. Use la superposicion para encontrar el voltaje Va y la corriente I en el circuito de la figura 9-77.
+
+![image](https://user-images.githubusercontent.com/85137398/126437593-5e116736-6ab5-4e01-8bed-9f47201b3b5d.png)
+
+Req = 30 ohm || 60 ohm 
+
+Req =  20 ohm
+
+Va = -5 (20/30)
+
+Va = -3.33 V
+
+Req = 10 ohm || 30 ohm 
+
+Req = 7.5 ohm 
+
+Va (2) = 2 (7.5/67.5)
+
+Va (2) = 0.22 V
+
+Va = Va (1) + Va (2)
+
+Va = -3.33 + 0.22
+
+Va = -3.11
+
+I1 = 0.166 A
+
+I2 = 0.022 A
+
+IT = I1 + I2
+
+IT = 0.188 A
+
+5. En el circuito de la figura 9-79, .cual debe ser el valor de la fuente de voltaje desconocida para asegurar que la corriente a traves de la carga sea IL5 mA, tal y como se muestra? Verifique los resultados mediante la superposicion.
+
+![image](https://user-images.githubusercontent.com/85137398/126437690-d12f9af8-764e-4dd4-a19c-d58ea5b266c7.png)
+
+V = IL * R
+
+V = 5 mA * 5 Kohm
+
+V = 25 V
+
+E = (42.5 (v) – 462.5) / 20 V
+
+E = (42.5 (25) – 462.5)/ 20 V
+
+E = 30 V 
+
+RT = 2.5 + 2.22
+
+RT =  4.72 ohm
+
+I = 30/4.72
+
+I = 6.35 mA
+
+I2 = 2.82 mA
+
+IL = 5 mA
+
+7. Encuentre el equivalente de Thevenin externo a RL en el circuito de la figura 9-81. Use el circuito equivalente para encontrar Vab.
+
+![image](https://user-images.githubusercontent.com/85137398/126437755-90485a21-30b3-4b6b-ab20-3527d044b494.png)
+
+Req = 40*10/40+10 = 8 ohm
+
+VTH = 10/40+10 * 50 = 10 V
+
+IL = 10 /20 = 0.5
+
+Vab = RTH * RL/RT 
+
+Vab = 10 * 30/50
+
+Vab = 6V
+
+9. Repita el problema 7 para el circuito de la figura 9-83.
+
+![image](https://user-images.githubusercontent.com/85137398/126437803-86938237-0f3e-441c-88f7-ab155dbca395.png)
+
+Req = 1.2 * 6.8 / 1.2+6.8 = 1.02 Kohm
+
+RTH = 1.02 + 1 = 2.02
+
+RT = 3.52
+
+VTH = 1.2/6.8+1.8 * 8 = 1.2 V
+
+Vab = RTH * RL / RT
+
+Vab = 1.2 * 1.5/3.52
+
+Vab = 0.51 V
+
+11. Vea el circuito de la figura 9-85:
+
+a Encuentre el circuito equivalente de Thévenin externo a RL.
+
+b. Use el circuito equivalente para determinar Vab cuando RL =20 Ω y cuando RL = 50Ω.
+
+RTH = R1 + R2
+
+RTH = 40 OHM
+
+VTH1 = 40 * 0.2
+
+VTH1 = 8V
+
+VTH 2 = 2.4 
+
+VTH = 10.4 
+
+I1 = 10.4 / 60 = 0.17 A
+
+I2 = 10.4 / 90 = 0.11 A
+
+17. Vea el circuito de la figura 9-91:
+
+a. Encuentre el circuito equivalente de Thévenin externo a RL.
+
+b. Use el circuito equivalente de Thévenin para encontrar la corriente I cuando RL= 0, 10 kΩ y 50 kΩ.
+
+![image](https://user-images.githubusercontent.com/85137398/126437921-0c7b1018-26f7-40da-9be1-f79a527c635a.png)
+
+Req1 = 15+25+20 = 60 
+
+RTH = 60 ohm
+
+VTH = Va – Vb
+
+Va = 3 * 25
+
+Va = 75 V
+
+Vb = 5 * 20 
+
+Vb = 100 V
+
+I1 = 25/60 = 0.41 mA
+
+I2 = VTH /Req1 = 25/100 = 0.22 mA
+
+19. Repita el problema 17 para el circuito de la figura 9-93.
+
+![image](https://user-images.githubusercontent.com/85137398/126437969-f45576c8-ce38-4b69-ae87-5a0e75db59fc.png)
+
+Req = 10 * 16/10+16 = 6.15 ohm
+
+RTH = Req + 24
+
+RTH = 6.15 + 24
+
+RTH = 30.15 Kohm 
+
+IT 48 / 30.15 = 1.59
+
+I1 = 1.59 * 24 = 38.20 V
+
+VR50 = 9.77 * 50 / 80.15 = 6.09 V
+
+21. Encuentre el circuito equivalente de Thévenin de la red externa a las ramas que se indican, como se muestra en la figura 9-95.
+
+![image](https://user-images.githubusercontent.com/85137398/126438082-7fd8d97c-6686-45bb-af81-538360a6c094.png)
+
+Req = 10*16/10+16 = 6.15 ohm
+
+Req = 8 + 4 = 12 ohm
+
+RTH = 12*18/12+18 = 7.2
+
+VS = 0.8 * 12 = 9.6 V
+
+VTH = Va – Vb 
+
+VTH = 9.6 – 5
+
+VTH = 4.5 V
 
 27. Repita el problema 25 para el circuito de la figura 9-83.
 
