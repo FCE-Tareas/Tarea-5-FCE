@@ -996,5 +996,19 @@ b) El circuito esta abierto
 
 ![image](https://user-images.githubusercontent.com/84390686/126446861-9427d604-f8c4-4a46-96fc-a3ac4c50a672.png)
 
-c) El circuito esta en corto 
+c) El circuito está en corto
 
+4. VIDEO 
+
+https://youtu.be/h1o7VKScN-Q
+
+5. CONCLUSIONES
+
+* Los circuios eléctricos en aplicaciones reales de la electrónica se complementan con circuitos en serie y en paralelo entre sí, por lo que debemos utilizar la simplificación de circuitos para realizar los mismos análisis de forma mas simple en conjunto con los teoremas de Norton, Superposición, Thévenin.
+* Un capacitador acumula energía (voltaje) a medida que fluye la corriente a través de un circuito eléctrico. Ambas placas mantienen cargas iguales, y a medida que la placa positiva recoge una carga, una carga igual fluye fuera de la placa negativa.
+* Los capacitores en paralelo el voltaje es igual y para capacitores en serie el voltaje equivalente es la suma de los voltajes de cada capacitor, ademas al conectar los capacitores hay que tomar en cuenta la polarización ya que si no se hace así los resultados que se esperan no se obtendrán.
+
+6. BIBLIOGRAFÍA 
+
+* MiElectronica (2019). Teorema de Thevenin y Norton. recuperado (20/07/2021). from https://mielectronicafacil.com/analisis-de-circuitos/teorema-de-thevenin-y-norton/#introduccion
+* Web-Robótica. (06 de Abril de 2019). Web-Robótica. Obtenido de https://www.web-robotica.com/taller-de-web-robotica/electronica/componentes-electronicos/condensadores-en-serie-y-en-paralelo
