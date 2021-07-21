@@ -13,3 +13,9 @@ Específicos
 * Estudiar los teoremas más útilies en el analísis de circuitos como Thévenin, Norton, superposicion, y el de Millman. 
 * Conocer el coortamiento de los capacitores en un circuito eléctrico.
 * Interpretar la relación entre voltaje y corriente en un circuito con elementos capacitivos. 
+
+2. MARCO TEÓRICO
+
+CAPÍTULO IX
+
+![image](https://user-images.githubusercontent.com/84390820/126432878-aaa82e88-883d-4484-b3fd-62d912a6be41.png)
