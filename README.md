@@ -20,12 +20,6 @@ CAPÍTULO IX
 
 ![image](https://user-images.githubusercontent.com/84390820/126432878-aaa82e88-883d-4484-b3fd-62d912a6be41.png)
 
-CAPÍTULO X
-
-![image](https://user-images.githubusercontent.com/85209614/126435907-f90f93f3-499e-4563-9e5d-1aa273189555.png)
-
-![image](https://user-images.githubusercontent.com/85209614/126436041-5c4a9d8e-c928-4a9a-9d91-3626135ae63e.png)
-
 3. EXPLICACIÓN Y RESOLCIÓN DE EJERCICIOS O PROBLEMAS
 
 EJERCICIOS CAPÍTULO IX
@@ -286,5 +280,168 @@ PL=〖(25V)〗^2/(4(60)) = 2.60mW
 39. a. Para el circuito de la figura 9-99 encuentre el valor de R de manera que RL = RTh.
 
 b. Calcule la máxima potencia disipada por RL.
+
+![image](https://user-images.githubusercontent.com/84390820/126435037-0e04093f-ff4d-49f0-b52b-48be84385d45.png)
+
+RTH=[(600∥R)+20]
+
+RTH=[(600*R)/(600+R)+20]
+
+RTH=RL
+
+RTH = 50
+
+50=(600*R)/(600+R)+20
+
+R*570=18
+
+R=31.58Ω
+
+ETH = 31.58/(31.58+600)*(25)
+ETH = 1.25 V
+
+Pmax =〖ETH〗^2/4RTH
+Pmax =〖(1.25V)〗^2/(4(50)) = 7.81mW
+
+41. a. Para el circuito de la figura 9-101 determine los valores de R1 y R2 de manera que la carga de 32 kΩ reciba la máxima potencia.
+
+b. Calcule la máxima potencia suministrada por RL.
+
+![image](https://user-images.githubusercontent.com/84390820/126435189-2d6e6c4f-e7ff-4691-a176-9e685929ccf9.png)
+
+R1+R2 = 200Ω
+
+RL = RTH
+
+RTH = 32KΩ
+
+RTH = (R1∥R2)
+
+32 = (R1*R2)/(R1+R2)
+
+32R1+32R2 = R1*R2
+
+32(R1+(200-R1)) = R1*(200-R1)
+
+6400MΩ-(200kΩ)R1+〖R1〗^2 = 0
+
+R1=160KΩ
+
+R1+R2=200
+
+160+R2=200
+
+R2=40KΩ
+
+ETH=40/(40+160)*(25)
+
+ETH=5V
+
+Pmax=〖ETH〗^2/4RTH
+
+Pmax=〖(5V)〗^2/(4(32))=19.5mW
+
+9-5 Teorema de sustitución
+
+43. Si la porción indicada del circuito de la figura 9-102 se reemplaza con una fuente de voltaje y un resistor en serie de 50 _, determine la magnitud y polaridad la fuente de 
+
+voltaje resultante.
+
+![image](https://user-images.githubusercontent.com/84390820/126435435-7c9ea3de-1ce9-470b-9436-5d155436690a.png)
+
+I = 6.25/200 = 31.25mA
+
+31.25 = E1/50
+
+E1 = 1.5625V
+
+9-6 Teorema de Millman
+
+45. Use el Teorema de Millman para encontrar la corriente y la potencia disipada por RL en el circuito de la figura 9-103.
+
+![image](https://user-images.githubusercontent.com/84390820/126435605-333756fd-5215-440e-a5a5-f7f24405c448.png)
+
+I1=20V/30Ω=0.667A
+
+I2=10V/20Ω=0.667A
+
+Ie1=∑_(x=0)^n〖Ix=I1+I2=E1/R1+E2/R2=0.667-0.5=0.167〗
+
+Req=(R1*R2)/(R1+R2)=(30*20)/(30+20)=12Ω
+
+V=(12)(0.167)=2.004V
+
+I=2.004V/37Ω=0.054A
+
+PL=(0.054)^2 (25) = 0.073 W
+
+47. Repita el problema 45 para el circuito de la figura 9-105.
+
+![image](https://user-images.githubusercontent.com/84390820/126435683-8609436c-6817-4d9b-9769-42a9ef258c85.png)
+
+Req = ((5.1)(4.7)(5.6))/((5.1)(4.7)+(5.1)(5.6)+(4.7)(5.6))
+Req = 134.23/78.85=1.702kΩ
+
+I1 = 10V/5.1Ω = 1.9mA
+
+I2 = 5V/4.7Ω = 1.06mA
+
+I3 = 6V/5.6Ω = 1.07mA
+
+Ix=1.96+1.06-1.07=1.95mA
+
+Ex=(1.95)(1.702)=3.31V
+
+VL=10/11.702*3.31=2.83V
+
+IL=2.83V/10KΩ=0.283mA
+
+PL=(0.283)^2 (10)=0.807W
+
+9-7 Teorema de reciprocidad
+
+49. a. Determine la corriente I en el circuito de la figura 9-107.
+
+b. Demuestre que la reciprocidad se aplica en el circuito dado.
+
+![image](https://user-images.githubusercontent.com/84390820/126435742-e1d8e188-664a-4cf6-964c-34b79d259bbe.png)
+
+
+RTH=(30+22.5)∥(60)∥(30)
+
+RTH=(52.5)(60)(30)/((52.5)(60)+(52.5)(30)+(30)(60) )
+
+RTH=94500/6525=17.58Ω
+
+VTH=Vab=28/58*24V=11.58V
+
+VTH=30/52.5*11.58V=6.62V
+
+I=11.59/((1.48+10) )=0.24A
+
+I=6.62V/17.58Ω=0.24A
+
+51. a. Determine el voltaje V en el circuito de la figura 9-109.
+
+b. Demuestre que la reciprocidad se aplica en el circuito dado.
+
+![image](https://user-images.githubusercontent.com/84390820/126437004-a543c55a-86f0-479e-9150-ad86ad76b272.png)
+
+I*RT3 = VT = 48V
+
+VRT3 = V20 Ω = VRT2
+
+VRT = VRT2*37.5/80 = 22.5V
+
+VRT = Vab = 22.5V
+
+
+RT = ((62.5)(50)(150))/((62.5)(50)+(62.5)(150)+(50)(150))
+
+RT = 62.5Ω
+
+VT = VRT = 3(27.78) = 70.31V
+
+V20Ω = Vab = 70.31*20/62.5 = 22.5V
 
 
