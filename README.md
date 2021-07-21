@@ -20,6 +20,12 @@ CAPÍTULO IX
 
 ![image](https://user-images.githubusercontent.com/84390820/126432878-aaa82e88-883d-4484-b3fd-62d912a6be41.png)
 
+CAPÍTULO X
+
+![image](https://user-images.githubusercontent.com/85209614/126435907-f90f93f3-499e-4563-9e5d-1aa273189555.png)
+
+![image](https://user-images.githubusercontent.com/85209614/126436041-5c4a9d8e-c928-4a9a-9d91-3626135ae63e.png)
+
 3. EXPLICACIÓN Y RESOLCIÓN DE EJERCICIOS O PROBLEMAS
 
 EJERCICIOS CAPÍTULO IX
