@@ -28,6 +28,10 @@ CAPÍTULO X
 
 ![image](https://user-images.githubusercontent.com/85209614/126440281-e8bac75e-2254-4df5-886f-9532c7645148.png)
 
+![d0c321c8d4cd4f9dad61cd5a13a80758-0001](https://user-images.githubusercontent.com/84390686/126446303-3367952b-f44c-4392-9b77-6fc9b3afbf3b.jpg)
+
+![5f37ae828a40412bb40f8d407cae97e2-0001](https://user-images.githubusercontent.com/84390686/126446323-6fa4b755-262a-4858-b12f-96f9df0422dd.jpg)
+
 3. EXPLICACIÓN Y RESOLCIÓN DE EJERCICIOS O PROBLEMAS
 
 EJERCICIOS CAPÍTULO IX
@@ -822,3 +826,175 @@ CT=10+12+22+33=77 µF
 25. Repita el problema 23 si los capacitores están conectados en serie. 
 
 CT=1/(1/10+1/12+1/22+1/33)=3,86 µF
+
+27. Determine CT para cada uno de los circuitos de la figura 10-33.
+
+![image](https://user-images.githubusercontent.com/84390686/126446527-68328d27-6099-480c-aa2f-e77b37e8adb0.png)
+
+Para calcular el CT se utilizará la fórmula para capacitores en serie: CT= 1/((1/C1) + (1/C2) + (1/C3)…+ (1/Cn))
+
+C1=120μF
+
+C2=12μF
+
+C3=80μF
+
+Reemplazar valores:
+
+CT= 1/((1/120) + (1/12) + (1/80))
+
+CT= 1/(5/48)
+
+CT= 9.6μF.
+
+![image](https://user-images.githubusercontent.com/84390686/126446640-b0c9a17b-f069-493a-804f-4ec82f144bf5.png)
+
+Fórmula: CT=C1+C2+C3
+
+C1= 8μF
+
+C2= 4μF
+
+C3= 1μF
+
+Reemplazar en la formula 
+
+CT= 8+4+1
+
+CT= 13μF
+
+29. Un capacitor de 30μF se conecta en paralelo con un capacitor de 60μF, y otro de 10μF se conecta en serie con la combinación en paralelo. ¿Cuál es el valor de CT?
+
+C1 = 30μF + 60μF
+
+C1= 90μF
+
+CT= 1/((1/90)+(1/10))
+
+CT= 1/(1/9)
+
+CT= 9μF
+
+31. Para la figura 10-36, determine C3 y C4
+
+![image](https://user-images.githubusercontent.com/84390686/126446662-ef00a07b-b025-4c3d-8c95-337953f3a197.png)
+
+
+Ceq1=(2C4*C4)/(2C4+C4)=(2C4*C4)/(3C4)
+
+Ceq1=2C4/3
+
+Ceq2=2C4/3 + 40
+
+20 = (30(2C4/3 + 40))/ 30 + 2C4/3 + 40
+
+20(70+2C4/3) = 20C4+1200
+
+C4=30μF
+
+C3=2(30)=60μF
+
+33. Se tienen capacitores de 22, 47, 2.2 y 10 μF. ¿Cuál es la capacitancia equivalente más grande que se puede obtener conectándolos de la manera que usted prefiera?, ¿y la más pequeña?
+
+CT = 22 + 47 + 2.2 +10 =81.2 μF
+
+CT = 1/((1/22) + (1/47) + (1/2.2) + (1/10)) = 1.61 μF
+
+35. Considere capacitores de 1, 1.5 y 10 μF. Si CT 10-6 μF, ¿cómo están conectados los capacitores?
+
+C1=1/(1+1/1.5)=3/5
+
+CT=(3/5)+10 = 10.6 μF
+
+37. Para las figuras 10-33 (c) , encuentre el voltaje en cada capacitor si se aplican 100 V en las terminales a-b.
+
+![image](https://user-images.githubusercontent.com/84390686/126446685-055b71b6-7de3-4416-bdf5-39fc21fd3e34.png)
+
+Ceq1=5+4=9 μF
+
+CT=1/(1/6+1/9) = 3.6 μF
+
+V1=(3.6/6)*100 = 60V
+
+V2=V3=(3.6/9)*100=40V
+
+38. Repita el problema 38 para el circuito de la figura 10-39
+
+![image](https://user-images.githubusercontent.com/84390686/126446708-50a6973f-dd79-4dcc-bf65-593e94a02a26.png)
+
+Ceq1=35+25=60 μF
+
+CT=1/((1/40)+(1/16)+(1/60))=9.6 μF
+
+V1=(9.6/40)*60=14.4V
+
+V2=(9.6/16)*60=36V
+
+V3=(9.6/60)*60=9.6V
+
+41. Para la figura 10-41, determine Cx.
+
+![image](https://user-images.githubusercontent.com/84390686/126446726-5badbebc-c772-416b-a523-8c343f765be6.png)
+
+C1=1200 + Cx
+
+C2=1/((1/500)+(1/100)+(1/1200+Cx))
+
+16 = ((1//((3/250)+(1/1200+Cx)))/500)
+
+16 = (1/((3/250)+(1/1200+Cx))*500)*100
+
+16 = 1/((3850+3Cx)/250(1200+Cx))*5
+
+1600 = 2Cx
+
+Cx = 800μF
+
+43. El voltaje en el capacitor de la figura 10-42(a) se muestra en (b). Dibuje la corriente iC a escala con valores numéricos. 
+ 
+![image](https://user-images.githubusercontent.com/84390686/126446752-984d0ddd-a5e7-4c46-b146-b6a2d7affc09.png)
+
+![image](https://user-images.githubusercontent.com/84390686/126446789-51868901-e4da-4379-85e4-a39d58a08f48.png)
+
+45. Si el voltaje en un capacitor de 4.7 μF es vC 100e^-0.05t V, ¿qué valor tiene iC?
+
+iC=C d/dt (100e^-0.05t)
+
+iC=100C d/dt (100e^-0.05t)
+
+iC=100*4.7 (-0.05e^-0.05t)
+
+iC=-23.5e^-0.05t μA
+
+47. Para la figura 10-42 determine la energía del capacitor en cada uno de los siguientes tiempos: t 0, 1, 4, 5, 7 y 9 ms.
+
+![image](https://user-images.githubusercontent.com/84390686/126446820-26777d93-a123-4387-b5fe-c9e955b02a35.png)
+
+5μF * (1 ɱF)/(1000μF) = 0.005 ɱF
+
+Wt=0 = 1/2 (0.005)(0)^2 = 0 ɱJ
+
+Wt=1 = 1/2 (0.005)(-10)^2 = 0.25 ɱJ
+
+Wt=4 = 1/2 (0.005)(20)^2 = 1 ɱJ
+
+Wt=5 = 1/2 (0.005)(20)^2 = 1 ɱJ
+
+Wt=7 = 1/2 (0.005)(30)^2 = 2.25 ɱJ
+
+Wt=9 = 1/2 (0.005)(0)^2 = 0 ɱJ
+
+49. Para cada caso mostrado en la figura 10-44, ¿cuál es la falla más probable?
+
+![image](https://user-images.githubusercontent.com/84390686/126446838-c6a1cdd6-0c9e-4bd3-ae8d-37ee225f5e9b.png)
+
+a) El circuito esta en corto
+
+![image](https://user-images.githubusercontent.com/84390686/126446846-b5bc01d8-e10b-4b86-b90f-fc39f55f9c6d.png)
+
+b) El circuito esta abierto 
+
+![image](https://user-images.githubusercontent.com/84390686/126446861-9427d604-f8c4-4a46-96fc-a3ac4c50a672.png)
+
+c) El circuito esta en corto 
+
